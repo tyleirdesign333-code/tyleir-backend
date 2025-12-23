@@ -1,0 +1,13 @@
+// server/products.js
+module.exports = {
+  0: { name: "Carolina Dreams", price: 4299 },
+  1: { name: "Original Vintage Frayed Hoodie", price: 4200 },
+  2: { name: "Blue Eagle", price: 4000 },
+  3: { name: "New York Sun Fade", price: 3500 },
+  4: { name: "Boxy Fleece, Pop", price: 3500 },
+  5: { name: "Exclusive Boxy Jacket, Spirit", price: 4500 },
+  6: { name: "Don't Touch Love", price: 4200 },
+  7: { name: "Boxy Fleece, Ohio", price: 3000 },
+  8: { name: "Snow-Washed Hoodie, Smile", price: 4000 },
+  9: { name: "Zip Hoodie, Sun Fade", price: 5000 }
+};
